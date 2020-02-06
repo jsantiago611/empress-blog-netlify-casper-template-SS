@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress-blog
+title: This is just a test :) from Jon
 image: /images/welcome.jpg
 imageMeta:
   attribution:
