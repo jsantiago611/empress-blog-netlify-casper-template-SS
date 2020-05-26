@@ -26,7 +26,7 @@ module.exports = function(environment) {
     blog: {
       title: 'What To Pray',
       description: 'Helping Parents Pray through the Bible for their Kids.',
-      coverImage: ,
+      coverImage: '',
 
       navigation: [{
         label: 'Home',
