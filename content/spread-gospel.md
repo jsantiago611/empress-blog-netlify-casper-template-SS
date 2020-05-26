@@ -1,5 +1,5 @@
 ---
-title: Praying That I Would Spread the Gospel to My Children (Romans 1:1,5-6)
+title: Praying That I Would Spread the Gospel to My Children
 date: 2020-05-26 17:50:59 Z
 image: "/images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_453e1617-6e1d-4ae6-9837-07552474b306_5472x3648.jpeg"
 imageMeta:
@@ -41,10 +41,11 @@ That was Paul’s mission in life. In Romans 1:5, he shares that his goal in lif
 
 He is “set apart for the gospel” (Romans 1:1), meaning that he has moved away from everyone else to pursue this one mission of spreading this good news. Are you?
 
-*Is this your life mission? To see your children obey God out of a heart of faith?
+*Is this your life mission? To see your children obey God out of a heart of faith?*
+*Like Paul, are you willing to give up everything to see this accomplished?*
 
-*Like Paul, are you willing to give up everything to see this accomplished?
 ---
+
 ## How to Pray through Romans 1:1-6
 
 > Heavenly Father, you are gracious. You have accepted me into your family, through the death of your beloved Son, Jesus.
