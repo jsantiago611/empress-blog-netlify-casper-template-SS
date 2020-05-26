@@ -3,7 +3,7 @@ title: Praying That I Would Spread the Gospel to My Children (Romans 1:1,5-6)
 date: 2020-05-26 17:50:59 Z
 image: "/images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_453e1617-6e1d-4ae6-9837-07552474b306_5472x3648.jpeg"
 imageMeta:
-  attribution: by 
+  attribution: by
   attributionLink: 
 featured: true
 authors:
