@@ -30,7 +30,7 @@ module.exports = function(environment) {
 ',
 
       navigation: [{
-        label: 'Home',
+        label: '🏠Home',
         route: 'index'
       }, {
         label: 'About',
