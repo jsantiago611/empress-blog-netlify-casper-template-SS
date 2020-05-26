@@ -44,9 +44,7 @@ He is “set apart for the gospel” (Romans 1:1), meaning that he has moved awa
 *Is this your life mission? To see your children obey God out of a heart of faith?
 
 *Like Paul, are you willing to give up everything to see this accomplished?
-
 ---
-
 ## How to Pray through Romans 1:1-6
 
 > Heavenly Father, you are gracious. You have accepted me into your family, through the death of your beloved Son, Jesus.
