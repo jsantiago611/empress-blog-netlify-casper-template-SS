@@ -26,7 +26,8 @@ module.exports = function(environment) {
     blog: {
       title: 'What To Pray',
       description: 'Helping Parents Pray through the Bible for their Kids.',
-      coverImage: '/images/blog-cover.jpg',
+      coverImage: '/images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_a1e4f03b-f9d2-49fd-80d6-51548599f555_5274x3516.jpeg
+',
 
       navigation: [{
         label: 'Home',
