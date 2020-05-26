@@ -7,7 +7,7 @@ imageMeta:
   attributionLink: 
 featured: true
 authors:
-- ghost
+- jon
 tags:
 - getting-started
 ---
