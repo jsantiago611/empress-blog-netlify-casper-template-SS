@@ -1,6 +1,6 @@
 ---
-name: Ghost
-id: ghost
+name: Jon
+id: Jon
 image: "/images/ghost-icon.png"
 cover: 
 website: https://github.com/empress/empress-blog
