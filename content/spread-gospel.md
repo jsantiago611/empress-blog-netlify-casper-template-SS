@@ -1,20 +1,20 @@
 ---
 title: Praying That I Would Spread the Gospel to My Children (Romans 1:1,5-6)
 date: 2020-05-26 17:50:59 Z
-image: "/images/ember.jpg"
+image: "/images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_453e1617-6e1d-4ae6-9837-07552474b306_5472x3648.jpeg"
 imageMeta:
-  attribution: by Robert Wagner
-  attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
+  attribution: by 
+  attributionLink: 
 featured: true
 authors:
 - Jon
 tags:
-- getting-started
+- Romans
 ---
 
 As we think about the life that lies ahead for our children, we find ourselves wanting them to have a perfect life, free from failures and disappointments. We want them to be someone. To have successful careers. To be influential and likable. To be safe, happy, healthy. To be financially secure and happily married.
 
-So we try to map out the "perfect life" for them.
+So we try to map out the **perfect life** for them.
 
 We play “My Baby Can Read” videos to them when they can barely babble, in hopes they would excel.
 
@@ -34,6 +34,7 @@ If we are not pouring our lives into our children to make them lovers of God, we
 
 ## Your #1 Parenting Goal should be to…
 
+
 …cultivate an obedient heart and life that comes from knowing we are accepted and righteous in God’s eyes through our faith in Jesus Christ.
 
 That was Paul’s mission in life. In Romans 1:5, he shares that his goal in life is to “bring about among the gentiles…the obedience that comes from faith.” He wants to see the gentiles place their faith in Christ and know they are accepted, and he wants to see the obedience that comes from that faith.
@@ -46,7 +47,7 @@ He is “set apart for the gospel” (Romans 1:1), meaning that he has moved awa
 
 ---
 
-## How to Pray 
+## How to Pray through Romans 1:1-6
 
 > Heavenly Father, you are gracious. You have accepted me into your family, through the death of your beloved Son, Jesus.
 
