@@ -1,7 +1,7 @@
 ---
 name: Jon
 id: Jon
-image: "/images/ghost-icon.png"
+image: "/images/p-logo.png"
 cover: 
 website: https://github.com/empress/empress-blog
 twitter: 
