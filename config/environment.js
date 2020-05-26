@@ -24,15 +24,15 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'What To Pray',
+      description: 'Helping Parents Pray through the Bible for their Kids.',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'About',
         route: 'page',
         id: 'chris-manson'
       }]
